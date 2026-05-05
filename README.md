@@ -42,7 +42,7 @@ python3 security_audit.py
 ======================================================================
   VPS SECURITY AUDIT REPORT
 ======================================================================
-  Hostname:    vmi3209984
+  Hostname:    your-hostname
   OS:          Ubuntu 24.04.2 LTS
   Timestamp:   2026-05-05T11:31:00
 ======================================================================
@@ -50,9 +50,9 @@ python3 security_audit.py
 SUMMARY
 ----------------------------------------------------------------------
   Total Checks:  15
-  PASS:          8
-  WARN:          2
-  FAIL:          2
+  PASS:          11
+  WARN:          0
+  FAIL:          1
   INFO:          3
 
 SSH
