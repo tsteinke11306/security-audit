@@ -89,9 +89,9 @@ security-audit/
 ├── requirements.txt       # Dependencies (none for core, see below)
 ├── README.md              # This file
 └── reports/               # Generated audit reports
-    ├── audit_vmi3209984_20260505_113100.json
-    ├── audit_vmi3209984_20260505_113100.txt
-    └── audit_vmi3209984_20260505_113100.md
+    ├── audit_hostname_YYYYMMDD_HHMMSS.json
+    ├── audit_hostname_YYYYMMDD_HHMMSS.txt
+    └── audit_hostname_YYYYMMDD_HHMMSS.md
 ```
 
 ---
