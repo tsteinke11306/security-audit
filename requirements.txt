@@ -1,0 +1,8 @@
+# Optional dependencies for enhanced features
+# Core script requires no external packages (stdlib only)
+
+# For webhook/email alerting features (planned)
+requests>=2.28.0
+
+# For prettier terminal output (planned)
+rich>=13.0.0
